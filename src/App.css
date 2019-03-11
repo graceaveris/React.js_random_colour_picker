@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  font-family: "Century Gothic", CenturyGothic;
+  background-color: #0D0C12;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  padding-bottom: 100px;
+  color: white
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 20vmin;
+  float: left
+}
+
+.App-header {
+  background-color: #0D0C12;
+  margin-top: 80px;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h1 {
+  color: #8a83c6;
+  font-size: calc(10px + 6vmin);
+}
+
+h2 {
+  color: white;
+  font-size: calc(10px + 2vmin);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
