@@ -1,6 +1,6 @@
 **Day Three - 30 days of React challenge - "Random Colour Picker" app.**
 
-This is a React.js app that generates a random colour with corresponding rgb code onClick.
+This is a React.js app that generates a random colour with corresponding rgb code onClick. 
 
 **Concepts Explored:**
 - Passing props
